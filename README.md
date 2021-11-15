@@ -6,7 +6,10 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
 Website URL:
+https://parkerjustice.github.io/work-day-scheduler/
 
+GitHub URL:
+https://github.com/parkerjustice/work-day-scheduler
 
 ACCEPTANCE CRITERIA
 GIVEN I am using a daily planner to create a schedule
